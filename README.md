@@ -1,6 +1,7 @@
 # Scanned-Matrix-Pattern-Generator
 
 MATRIX
+
 A few things you should know about the format of creating the matrices with this Utility:
 - make use of the .matrxT extension and format, see https://csound.com/manual/GEN44.html
 - starts counting at 0, ends at matrix size -1.
@@ -15,7 +16,9 @@ A few things you should know about the format of creating the matrices with this
 - All the previous can be mixed.
 - 'traditional' Patterns with 128 node points are to be found in the Preset list: string, strincircular, grid, cylinder and torus. See tutorials: https://www.csounds.com/scanned/
 
+
 TRAJECTORY  
+
 For scans, the table does not have the same size as the other ftables used in scanu/scanu2. Can be higher, equal or smaller. There can even be empty values in the table.
 A smaller size ftable makes a slice and repeats the scan of portion of the matrix nodes.
 
