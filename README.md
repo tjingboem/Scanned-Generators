@@ -1,13 +1,14 @@
 # Scanned-Matrix-Pattern-Generator
 
+a Blue file containing the Scanned Matrix Pattern Generator, the Matrix Matlabplot, the Scanned Trajectory Genrator, the Trajectory Matlabplot. Needs Blue (https://blue.kunstmusik.com/) and Matlabplot (https://matplotlib.org/stable/users/installing/index.html).
+
 MATRIX
 
 A few things you should know about the format of creating the matrices with this Utility:
-- make use of the .matrxT extension and format, see https://csound.com/manual/GEN44.html
+- makes use of the .matrxT extension and format, see https://csound.com/manual/GEN44.html
 - starts counting at 0, ends at matrix size -1.
 - starts at 0 but can start anywhere until matrix size.
 - can end before matrix -1
-- values of X axis or Y axis should not get higher then matrix -1. Else an error will occur when using the Matrix in the csd.
 
 - The Scanned Matrix Pattern Generator has 3 different ways of generating coordinates.
     1. Lines & Clusters: Lines are uninterrupted lines although the lines can contain spaces in between the nodes. Clusters are sections of lines.
