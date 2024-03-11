@@ -8,7 +8,6 @@ A few things you should know about the format of creating the matrices with this
 - makes use of the .matrxT extension and format, see https://csound.com/manual/GEN44.html
 - starts counting at 0, ends at matrix size -1.
 - starts at 0 but can start anywhere until matrix size.
-- can end before matrix -1
 
 - The Scanned Matrix Pattern Generator has 3 different ways of generating coordinates.
     1. Lines & Clusters: Lines are uninterrupted lines although the lines can contain spaces in between the nodes. Clusters are sections of lines.
