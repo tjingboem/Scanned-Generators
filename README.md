@@ -16,6 +16,8 @@ A few things you should know about the format of creating the matrices with this
 - All the previous can be mixed.
 - 'traditional' Patterns with 128 node points are to be found in the Preset list: string, strincircular, grid, cylinder and torus. See tutorials: https://www.csounds.com/scanned/
 
+![Figure_1](https://github.com/user-attachments/assets/ca0317fb-bbf5-4682-a229-0789ea001c23)
+
 
 TRAJECTORY  
 
