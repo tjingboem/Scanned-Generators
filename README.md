@@ -1,6 +1,6 @@
 # Scanned-Generators
 
-a Blue file containing the Scanned Matrix Pattern Generator, the Matrix Matlabplot, the Scanned Trajectory Genrator, the Trajectory Matlabplot. Needs Blue (https://blue.kunstmusik.com/) and Matlabplot (https://matplotlib.org/stable/users/installing/index.html).
+a Blue file containing the Scanned Matrix Generator, the Scanned Matrix Plot, the Scanned Trajectory Generator, the Scanned Trajectory Plot. Needs Blue (https://blue.kunstmusik.com/) and Matlabplot (https://matplotlib.org/stable/users/installing/index.html), Python3
 
 MATRIX
 
